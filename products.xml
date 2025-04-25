@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Prices>
+  <Products>
+    <Product>
+      <ItemName>חלב 3%</ItemName>
+      <ItemPrice>5.90</ItemPrice>
+    </Product>
+    <Product>
+      <ItemName>לחם לבן</ItemName>
+      <ItemPrice>7.50</ItemPrice>
+    </Product>
+    <Product>
+      <ItemName>גבינה צהובה</ItemName>
+      <ItemPrice>12.30</ItemPrice>
+    </Product>
+  </Products>
+</Prices>
